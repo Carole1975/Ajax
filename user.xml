@@ -1,0 +1,17 @@
+<?xml version="1.0"?> 
+
+<personnes> 
+
+	<personne id="0">
+		<name>Camille Gendre</name> 
+		<company>Dessinator</company> 
+		<phone>06 00 01 02 03</phone>
+	</personne>
+
+	<personne id="1">
+		<name>Thierry Lenom</name> 
+		<company>Simplon.co</company> 
+		<phone>(011) 123-4567</phone>	 
+	</personne>
+
+</personnes>
